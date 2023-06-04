@@ -1,0 +1,11 @@
+body{
+    height:100VW;
+    width:80VW;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Cormorant Garamond', Garamond, Times, serif;
+    font-weight: normal;
+    font-size: 18;
+    background-color: #242424;
+    color: #e6e3e3;
+}
