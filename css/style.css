@@ -1,11 +1,25 @@
 body{
     height:100VW;
-    width:80VW;
-    margin: 10px;
-    padding: 10px;
+    width:60VW;
+    margin-left: 20VW;
+    margin-top: 5VW;
+    padding: 5px;
     font-family: 'Cormorant Garamond', Garamond, Times, serif;
     font-weight: normal;
     font-size: 18;
-    background-color: #242424;
+    background-color: hwb(0 9% 91%);
     color: #e6e3e3;
+}
+
+a {
+    color:hwb(0 78% 22%)
+}
+
+img {
+    max-width: 50VW;
+    max-height: 50VH;
+}
+
+.image_holder {
+    text-align: center;
 }
